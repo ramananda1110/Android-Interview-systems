@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="simple_questions">
+        <item> What is android ?</item>
+        <item>What Is the Google Android SDK ?</item> 
+        <item>What is Application Framework in Android ?</item>
+        <item>What is Applicatin Layer in Android ?</item>
+        <item>What is an Activity ?</item>
+        <item>What is Intent ?</item>
+        <item>What is Explicit Intent ?</item>
+        <item>What is Broadcast intents ?</item>
+        <item>Explain About android exception ?</item>
+        <item>What is Pending Intent ?</item>
+        <item>What is .apk extension ?</item>
+        <item>What is .dex extension ?</item>
+        <item>What is Intent filter ?</item>
+        <item >What is Dalvik Virtual Machine ?</item>
+        <item >What is Fragments in Android ?</item>
+        <item >What is Android layouts and its types ?</item>
+        <item >Android application can only be programmed in Java ?</item>
+        <item >Type of Android Application ?</item>
+        <item >What is Toast in Android ?</item>
+        <item >What is Notification Manager in Android?</item>
+        <item >What is View in Android ?</item>
+        <item >What is Orientation ?</item>
+        <item >What is the importance of XML-based layouts ?</item>
+        <item >What data types does AIDL support ?</item>
+    </string-array>
+
+</resources>

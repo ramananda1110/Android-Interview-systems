@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Interview</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    
+    <string name="btn1">Simple Questions</string>
+    <string name="btn2">Tough Questions</string>
+    <string name="btn3">See our Other Apps</string>
+   <string name="btn4">Rate App</string>
+    
+   <string name="txXx">XX/ </string>
+    <string name="txYy">YY</string>
+   <string name="txQuestion">Questions</string>
+    <string name="txAnswer">Press the button for answer</string>
+    
+   
+</resources>

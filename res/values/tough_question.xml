@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="tough_question">
+        <item>How many ways data stored in Android ?</item>
+        <item >What are the life cycle methods of android activity ?</item>
+        <item >What is the Android Architecture ?</item>
+        <item >What are containers ?</item>
+        <item >What is adb ?</item>
+        <item >What are the components of Android ?</item>
+        <item >What is Services ?</item>
+        <item >What is Content Provider ?</item>
+        <item >What is Broadcast Receiver</item>
+        <item >What is portable wi-fi hotspot ?</item>
+        <item >What is a Sticky Intent ?</item>
+        <item >What composes a typical Android application project ?</item>
+        <item >Differentiate Activities from Services </item>
+        <item >What are App Widgets ?</item>
+        <item >What is AIDL ?</item>
+        <item >What items or folders are important in every Android project ?</item>
+    </string-array>
+
+</resources>
